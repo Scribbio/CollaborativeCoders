@@ -5937,11 +5937,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\crawf\\CC\\CollaborativeCoders\\tutorialBot\\tutorialBot\\tutorialBot.csproj",
+      "projectUniqueName": "C:\\Users\\crawf\\CC\\CollaborativeCoders\\tutorialBot\\tutorialBot\\tutorialBot.csproj",
       "projectName": "tutorialBot",
-      "projectPath": "c:\\users\\crawf\\CC\\CollaborativeCoders\\tutorialBot\\tutorialBot\\tutorialBot.csproj",
+      "projectPath": "C:\\Users\\crawf\\CC\\CollaborativeCoders\\tutorialBot\\tutorialBot\\tutorialBot.csproj",
       "packagesPath": "C:\\Users\\crawf\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\crawf\\CC\\CollaborativeCoders\\tutorialBot\\tutorialBot\\obj\\",
+      "outputPath": "C:\\Users\\crawf\\CC\\CollaborativeCoders\\tutorialBot\\tutorialBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
