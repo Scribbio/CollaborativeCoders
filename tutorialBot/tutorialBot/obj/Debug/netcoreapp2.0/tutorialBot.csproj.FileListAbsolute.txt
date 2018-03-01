@@ -1,0 +1,8 @@
+c:\users\crawf\CC\CollaborativeCoders\tutorialBot\tutorialBot\bin\Debug\netcoreapp2.0\tutorialBot.deps.json
+c:\users\crawf\CC\CollaborativeCoders\tutorialBot\tutorialBot\bin\Debug\netcoreapp2.0\tutorialBot.runtimeconfig.json
+c:\users\crawf\CC\CollaborativeCoders\tutorialBot\tutorialBot\bin\Debug\netcoreapp2.0\tutorialBot.runtimeconfig.dev.json
+c:\users\crawf\CC\CollaborativeCoders\tutorialBot\tutorialBot\bin\Debug\netcoreapp2.0\tutorialBot.dll
+c:\users\crawf\CC\CollaborativeCoders\tutorialBot\tutorialBot\obj\Debug\netcoreapp2.0\tutorialBot.csprojResolveAssemblyReference.cache
+c:\users\crawf\CC\CollaborativeCoders\tutorialBot\tutorialBot\obj\Debug\netcoreapp2.0\tutorialBot.csproj.CoreCompileInputs.cache
+c:\users\crawf\CC\CollaborativeCoders\tutorialBot\tutorialBot\obj\Debug\netcoreapp2.0\tutorialBot.AssemblyInfoInputs.cache
+c:\users\crawf\CC\CollaborativeCoders\tutorialBot\tutorialBot\obj\Debug\netcoreapp2.0\tutorialBot.AssemblyInfo.cs
